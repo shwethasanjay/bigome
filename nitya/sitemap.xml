@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://bigome.com/</loc>
+  <lastmod>2019-07-03T18:27:56+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://bigome.com/index.html</loc>
+  <lastmod>2019-07-03T18:27:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bigome.com/service.html</loc>
+  <lastmod>2019-06-01T05:50:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bigome.com/ai.html</loc>
+  <lastmod>2019-06-11T15:49:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bigome.com/product.html</loc>
+  <lastmod>2019-06-01T12:03:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bigome.com/project.html</loc>
+  <lastmod>2019-06-01T12:03:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bigome.com/contact.html</loc>
+  <lastmod>2019-06-01T12:03:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>

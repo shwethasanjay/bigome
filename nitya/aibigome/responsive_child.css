@@ -1,0 +1,85 @@
+/****************************/
+/* Between 960px and 1190px */
+/****************************/
+
+@media only screen and (min-width: 960px) and (max-width: 1190px) {
+	.blog_container{
+		width: 960px;
+	}
+}
+
+/****************************/
+/* Between 768px and 960px */
+/****************************/
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+}
+
+
+/****************************/
+/* Between 480px and 768px */
+/****************************/
+
+@media only screen and (min-width: 480px) and (max-width: 767px){
+	.container,
+	.tcvpb_container,
+	.boxed_body_wrapper{
+		width: 90%;
+	}
+
+	.row > [class*="span"] {
+		width: 100%;
+		margin-left: 0;
+		margin-bottom: 10px;
+	}
+	section#xavi{
+		height: auto;
+	}
+	section#chatbot{
+		height: auto;
+	}
+	section#sellfash{
+		height: auto;
+	}
+	section#wysa{
+		height: auto;
+	}
+	section#ptd{
+		height: auto;
+	}
+}
+
+/****************************/
+/* Below 480px */
+/****************************/
+
+@media only screen and (max-width: 479px){
+
+	.container,
+	.tcvpb_container,
+	.boxed_body_wrapper{
+		width: 90%;
+	}
+
+	.row > [class*="span"] {
+		width: 100%;
+		margin-left: 0;
+		margin-bottom: 10px;
+	}
+	section#xavi{
+		height: auto;
+	}
+	section#chatbot{
+		height: auto;
+	}
+	section#sellfash{
+		height: auto;
+	}
+	section#wysa{
+		height: auto;
+	}
+	section#ptd{
+		height: auto;
+	}
+}
